@@ -1,5 +1,3 @@
-//In my preparation to do the assignment I watched a video on youtube by freecodecamp.org
-//on a Simon game to get an understanding of how to structure the code.
 //constants to be used for use in code
 let numflash; //to record which flash in a sequence we are at.
 let numturn; //to record the no. of the turn / total no. of flashes in that turn.
